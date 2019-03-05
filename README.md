@@ -1,7 +1,6 @@
 # encryption_shell
 
-Please check the manual page written by [Professor Schaumann](https://www.cs.stevens.edu/~jschauma/), 
-it is my final project of CS631.
+Please check the manual page written by [Professor Schaumann](https://www.cs.stevens.edu/~jschauma/).
 
 ## The program still cannot work correctly, 
 
