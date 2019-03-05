@@ -10,7 +10,7 @@ the parts (I think) I had done are:
 3. executed the command used by pipe(2) and fork(2).
 
 ## Missing part:
-	cannot read password from stdin.
+cannot read password from stdin.
 
 ## Chanllenge:
 1. Cannot find EVP_BytesToKey(3),EVP_EncryptInit(3), etc. 
